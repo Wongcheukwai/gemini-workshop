@@ -1,0 +1,14 @@
+google-cloud-aiplatform
+google-cloud-aiplatform[rapid_evaluation]
+nest_asyncio
+gitpython
+magika
+google-cloud-aiplatform[langchain,reasoningengine]
+cloudpickle==3.0.0
+pydantic==2.7.4
+requests
+langchain-google-community
+google-cloud-discoveryengine
+google-api-python-client
+langchain-google-cloud-sql-pg
+langchain-google-vertexai
